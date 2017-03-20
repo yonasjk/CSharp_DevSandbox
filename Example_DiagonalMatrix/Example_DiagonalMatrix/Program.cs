@@ -33,8 +33,8 @@ namespace Example_DiagonalMatrix
                 Console.WriteLine();
             }
 
-            // Print the matrix    
 
+            // Print the matrix    
             Console.WriteLine("\nMatrix A: ");
             for (int i = 1; i <= row; i++)
             {
@@ -46,8 +46,8 @@ namespace Example_DiagonalMatrix
             }
             Console.ReadLine();
 
-            // Check weather the matrix is diagonal or not    
 
+            // Check weather the matrix is diagonal or not    
             for (int i = 1; i <= row; i++)
             {
                 for (int j = 1; j <= col; j++)
